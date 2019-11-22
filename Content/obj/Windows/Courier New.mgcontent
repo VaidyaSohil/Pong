@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/vaidy/source/repos/rghLAB4/rghLAB4/Content/Courier New.spritefont</SourceFile>
+  <SourceTime>2011-01-03T10:12:48-07:00</SourceTime>
+  <DestFile>C:/Users/vaidy/source/repos/rghLAB4/rghLAB4/Content/bin/Windows/Courier New.xnb</DestFile>
+  <DestTime>2019-02-24T11:02:57.8782269-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-23T15:55:52-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-23T15:55:52-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

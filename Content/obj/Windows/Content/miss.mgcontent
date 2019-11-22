@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/vaidy/source/repos/rghLAB4/rghLAB4/Content/miss.wav</SourceFile>
+  <SourceTime>2010-12-21T13:12:44-07:00</SourceTime>
+  <DestFile>C:/Users/vaidy/source/repos/rghLAB4/rghLAB4/Content/bin/Windows/Content/miss.xnb</DestFile>
+  <DestTime>2019-03-04T08:07:03.5483745-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-23T15:55:52-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T15:55:52-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
